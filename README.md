@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chinelo
 - 👀 I am a DevOps Engineer
-- 🌱 I’m currently working with Golang
+- 🌱 I’m currently working with Golang, Terraform and Kubernetes
 - 💞️ I’m looking to collaborate and contribute on exciting new projects
 - 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinelo-ojiako/)
 
